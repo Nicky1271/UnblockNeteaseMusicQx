@@ -1,0 +1,13 @@
+# > 网易云音乐
+host-suffix,music.163.com,UnblockNeteaseMusic
+host-suffix,music.126.net,UnblockNeteaseMusic
+host-keyword,netease,UnblockNeteaseMusic
+user-agent,NeteaseMusic*,UnblockNeteaseMusic
+user-agent,NeteaseMusic**,UnblockNeteaseMusic
+user-agent,网易云音乐*,UnblockNeteaseMusic
+user-agent,网易云音乐**,UnblockNeteaseMusic
+user-agent,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,UnblockNeteaseMusic
+user-agent,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**,UnblockNeteaseMusic
+ip-cidr,59.111.181.0/24,UnblockNeteaseMusic
+ip-cidr,115.236.118.0/24,UnblockNeteaseMusic
+ip-cidr,223.252.199.0/24,UnblockNeteaseMusic
